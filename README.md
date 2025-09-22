@@ -84,13 +84,14 @@ return 0;
 ```
 ## INPUT:
 # var.c
+```
 #include<stdio.h>
 int main()
 {
 int a,b;
 return 0;
 }
-
+```
 ## OUTPUT:
 
 <img width="572" height="504" alt="image" src="https://github.com/user-attachments/assets/d94a4caf-6690-415e-b6c0-05cee80981d6" />
